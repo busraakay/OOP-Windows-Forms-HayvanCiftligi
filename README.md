@@ -1,4 +1,4 @@
-# ✏️ OOP-Windows-Forms-Project
+# ✏️ OOP-Windows-Forms-HayvanCiftligi
 Nesneye dayalı programlama prensipleri kullanılarak C#
 dilinde Windows Forms uygulaması şeklinde yazılan Hayvan Çiftliği Projesi.
 
