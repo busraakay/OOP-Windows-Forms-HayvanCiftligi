@@ -1,5 +1,6 @@
 # ✏️ OOP-Windows-Forms-Project
-Farm game using OOP principles with C#
+Nesneye dayalı programlama prensipleri kullanılarak C#
+dilinde Windows Forms uygulaması şeklinde yazılan Hayvan Çiftliği Projesi.
 
 ![profilim](https://i.gyazo.com/ce429f395ef0e34f663fc87fd8299570.gif)
 
