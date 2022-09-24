@@ -1,4 +1,4 @@
 # ✏️ OOP-Windows-Forms-Project
 Farm game using OOP principles with C#
 
-![arayuz](https://github.com/busraakay/OOP-Windows-Forms-Project/blob/main/NDPProje/bin/Debug/resimler/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.JPG)
+![profilim](https://i.gyazo.com/ce429f395ef0e34f663fc87fd8299570.gif)
